@@ -1,0 +1,7 @@
+{
+  "extends": "@mocoding/react-app-common/tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "./src/app"
+  },
+  "include": ["./src/app"]
+}
